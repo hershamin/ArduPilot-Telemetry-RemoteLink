@@ -1,0 +1,26 @@
+LCD	Arduino Uno
+
+DB4	A2
+DB5	A3
+DB6	A4
+DB7	A5
+GND	GND
+RW	GND
+BL2	GND
+BL1	9
+VCC	5V
+RS	A0
+E	A1
+V0	6
+
+
+Antenna	Arduino Uno
+
+GND	GND
+VCC	3.3V
+CE	8
+CSN	7
+SCK	13
+MOSI	11
+MISO	12
+IRQ	
